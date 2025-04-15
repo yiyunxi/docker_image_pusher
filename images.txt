@@ -7,3 +7,5 @@ calico/cni:v3.24.5
 coredns/coredns
 
 coredns/coredns:1.8.6
+
+busybox:1.28
