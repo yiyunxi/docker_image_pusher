@@ -5,3 +5,5 @@ calico/kube-controllers:v3.24.5
 calico/cni:v3.24.5
 
 coredns/coredns
+
+coredns/coredns:1.8.6
