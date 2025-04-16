@@ -9,3 +9,7 @@ coredns/coredns
 coredns/coredns:1.8.6
 
 busybox:1.28
+
+kubernetesui/dashboard:v2.5.0
+
+kubernetesui/metrics-scraper:v1.0.7
