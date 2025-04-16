@@ -13,3 +13,8 @@ busybox:1.28
 kubernetesui/dashboard:v2.5.0
 
 prom/node-exporter:v0.16.0
+
+prom/prometheus:v2.2.1
+
+
+
