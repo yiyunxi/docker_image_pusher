@@ -1,5 +1,4 @@
-
-nicolargo/glances
+prom/alertmanager:v0.27.0
 
 
 
