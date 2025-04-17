@@ -18,6 +18,9 @@ prom/prometheus:v2.53.3
 
 grafana/grafana:11.5.0
 
+registry.k8s.io/kube-state-metrics/kube-state-metrics:
+
+kubesphere/kube-state-metrics:v2.3.0
 
 
 
