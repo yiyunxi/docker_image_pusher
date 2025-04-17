@@ -1,5 +1,5 @@
 
-kubesphere/kube-state-metrics:v2.3.0
+nicolargo/glances
 
 
 
