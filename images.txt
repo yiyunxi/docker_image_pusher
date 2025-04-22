@@ -1,3 +1,4 @@
-cientopolis/tycho
+eipwork/kuboard:v3.3.0.6-amd64
+
 
 
